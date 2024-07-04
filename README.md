@@ -21,3 +21,7 @@ Source code is located at https://github.com/eqate/kill-roblox/blob/main/program
 ## Version
 
 1.01
+
+## Other
+
+This project will not be updated unless I decide to after the initial release V1.01
