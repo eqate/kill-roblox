@@ -17,3 +17,7 @@ Terminates the roblox process
 ## Code
 
 Source code is located at https://github.com/eqate/kill-roblox/blob/main/program.cs (RAW - https://raw.githubusercontent.com/eqate/kill-roblox/main/program.cs)
+
+## Version
+
+1.01
